@@ -5,10 +5,8 @@ These problems will use your knowledge of looping and conditionals, and we will 
 ## Getting Started
 
 * Fork and clone this repository
-* Run `npm install` to install dependencies
 * Solve the problems below in separate files, located in `js`
 * Run `node js/nameOfFile.js` to execute code
-* Run `npm run lint:js` to lint your code
 
 ---
 
@@ -32,7 +30,7 @@ e - 1
 ---
 
 ###sillySum(arr)
-Write a function that takes an array of numbers, and returns the sum of each number multiplied by its index. 
+Write a function that takes an array of numbers, and returns the sum of each number multiplied by its index.
 
 `count += (number * index)`
 
